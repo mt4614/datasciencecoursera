@@ -11,5 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 ## This is a Markdown File
-## Including Plots
+
 
